@@ -12,6 +12,8 @@ function firstUnpinnedTab(tabs) {
   }
 }
 
+
+content.storage.local
 /**
  * listTabs to switch to
  */
